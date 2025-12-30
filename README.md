@@ -15,7 +15,7 @@ Thyroid disorders often go undiagnosed due to the resource-intensive nature of t
 •	Libraries: Scikit-learn (ML Algorithms), Pandas (Data Manipulation), NumPy (Numerical Analysis), Matplotlib/Seaborn (Visualization) 
 •	Environment: Jupyter Notebook / Google Colab
 
-** 🧬 Methodology & System Architecture**
+**🧬 Methodology & System Architecture**
 The system follows a multi-stage pipeline designed for clinical reliability:
 1.	Data Collection: Analyzed 3,200 patient records including hormone levels (TSH, T3, TT4), age, gender, and medical history.
 2.	Preprocessing: Performed mean/median imputation for missing values, Min-Max scaling for normalization, and Label Encoding for categorical features .
